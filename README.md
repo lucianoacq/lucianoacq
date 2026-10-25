@@ -12,6 +12,9 @@ Estudio la Tecnicatura en Programación en la Universidad Tecnológica Nacional,
 
 ## Proyectos publicados
 
+### [Sitio web con HTML y CSS](https://github.com/lucianoacq/sitio-web-html-css)
+Sitio académico sobre Breaking Bad con cinco páginas independientes, navegación, imágenes, estilos compartidos y un formulario visual de contacto.
+
 ### [Programación II en Java](https://github.com/lucianoacq/java-programacion-ii)
 Inventario, biblioteca y universidad con colecciones; ejercicios de UML, herencia, polimorfismo, interfaces y excepciones. Incluye diagramas, instrucciones de ejecución y comprobaciones con Java 17.
 
