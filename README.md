@@ -12,6 +12,9 @@ Estudio la Tecnicatura en Programación en la Universidad Tecnológica Nacional,
 
 ## Proyectos publicados
 
+### [Programación II en Java](https://github.com/lucianoacq/java-programacion-ii)
+Inventario, biblioteca y universidad con colecciones; ejercicios de UML, herencia, polimorfismo, interfaces y excepciones. Incluye diagramas, instrucciones de ejecución y comprobaciones con Java 17.
+
 ### [Gestión de datos de países](https://github.com/lucianoacq/tpi-paises-programacion1)
 Aplicación de consola en Python con persistencia CSV, altas, actualizaciones, búsquedas, filtros y estadísticas. Trabajo grupal: mi aporte fue la carga y el guardado de datos, las altas, las actualizaciones y el menú principal.
 
