@@ -1,4 +1,4 @@
-Luciano Acquaviva
+## Luciano Acquaviva
 
 Estudio la Tecnicatura en Programación en la Universidad Tecnológica Nacional, en modalidad virtual. Busco mi primera oportunidad laboral como desarrollador trainee o junior.
 
